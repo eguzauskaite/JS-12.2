@@ -1,0 +1,18 @@
+body {
+    background: #ccc;
+    font-family: 'Tangerine', cursive;
+    color: rgb(95, 35, 159);
+    font-size: 1.1em;
+}
+button{
+    border-radius: 7px;
+    background-color: rgb(95, 35, 159);
+    color: white;
+}
+table {
+    width: 35%;
+    font-size: 1.5rem;
+    align-items: center;
+    color: black;
+    border-color: rgb(95, 35, 159);
+}
